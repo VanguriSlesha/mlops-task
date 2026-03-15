@@ -1,0 +1,16 @@
+2026-03-15 23:14:31,740 - INFO - Job started
+2026-03-15 23:14:31,742 - ERROR - 'NoneType' object is not subscriptable
+2026-03-15 23:15:57,740 - INFO - Job started
+2026-03-15 23:15:57,745 - INFO - Config loaded
+2026-03-15 23:15:57,780 - ERROR - Column close missing
+2026-03-15 23:21:22,790 - INFO - Job started
+2026-03-15 23:21:22,791 - INFO - Config loaded
+2026-03-15 23:21:22,821 - ERROR - Column close missing
+2026-03-15 23:30:11,729 - INFO - Job started
+2026-03-15 23:30:11,729 - INFO - Config loaded
+2026-03-15 23:30:11,738 - ERROR - Column close missing
+2026-03-15 23:40:06,287 - INFO - Job started
+2026-03-15 23:40:06,287 - INFO - Config loaded
+2026-03-15 23:40:06,335 - INFO - Rows loaded: 10000
+2026-03-15 23:40:06,351 - INFO - Rolling mean calculated
+2026-03-15 23:40:06,353 - INFO - Job finished successfully
